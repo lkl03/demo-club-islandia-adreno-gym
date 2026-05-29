@@ -1,2 +1,7 @@
-# demo-club-islandia-adreno-gym
-Demo web para Club Islandia Adreno Gym — diseñada por eterlab.
+# Club Islandia Adreno Gym
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
